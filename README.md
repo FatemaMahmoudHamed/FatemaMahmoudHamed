@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatema%20Hamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatema-hamed)
 [![Email](https://img.shields.io/badge/Gmail-fatmamahmoud.h%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatmamahmoud.h@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Riyadh%2C%20Saudi%20Arabia-green?style=for-the-badge)](https://maps.google.com/?q=Riyadh,Saudi+Arabia)
-[![Profile Views](https://komarev.com/ghpvc/?username=FatemaMahmoudHamed&style=for-the-badge&color=blueviolet)](https://github.com/FatemaMahmoudHamed)
 
 </div>
 
@@ -98,16 +97,6 @@ const fatema: Developer = {
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemaMahmoudHamed&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6F00&currStreakLabel=A855F7&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=FatemaMahmoudHamed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
