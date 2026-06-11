@@ -99,54 +99,6 @@ const fatema: Developer = {
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FatemaMahmoudHamed/FatemaMahmoudHamed/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FatemaMahmoudHamed/FatemaMahmoudHamed/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/FatemaMahmoudHamed/FatemaMahmoudHamed/output/github-snake.svg" />
-  </picture>
-
-</div>
-
-> ⚙️ **Snake setup:** Create `.github/workflows/snake.yml` in your profile repo with the code below 👇
-
-<details>
-<summary>📋 Click to copy the Snake GitHub Action</summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
 ## 💼 Career Journey
 
 | 🏢 Company | 💡 Role | 📅 Period |
