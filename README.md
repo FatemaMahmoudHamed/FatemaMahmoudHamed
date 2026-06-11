@@ -84,8 +84,6 @@ const fatema: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=FatemaMahmoudHamed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaMahmoudHamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
