@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatema%20Hamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatema-hamed)
 [![Email](https://img.shields.io/badge/Gmail-fatmamahmoud.h%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatmamahmoud.h@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Riyadh%2C%20Saudi%20Arabia-green?style=for-the-badge)](https://maps.google.com/?q=Riyadh,Saudi+Arabia)
+[![Profile Views](https://komarev.com/ghpvc/?username=FatemaMahmoudHamed&style=for-the-badge&color=blueviolet)](https://github.com/FatemaMahmoudHamed)
 
 </div>
 
@@ -33,7 +34,7 @@ const fatema: Developer = {
 };
 ```
 
-> 🚀 Experienced in designing enterprise apps · Building scalable RESTful APIs · Modernizing legacy .NET systems · Automating workflows with SharePoint & M365
+> 🚀 Designing enterprise apps · Building scalable RESTful APIs · Modernizing legacy .NET systems · Automating workflows with SharePoint & M365
 
 ---
 
@@ -81,6 +82,84 @@ const fatema: Developer = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=FatemaMahmoudHamed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatemaMahmoudHamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemaMahmoudHamed&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6F00&currStreakLabel=A855F7&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=FatemaMahmoudHamed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FatemaMahmoudHamed/FatemaMahmoudHamed/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FatemaMahmoudHamed/FatemaMahmoudHamed/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/FatemaMahmoudHamed/FatemaMahmoudHamed/output/github-snake.svg" />
+  </picture>
+
+</div>
+
+> ⚙️ **Snake setup:** Create `.github/workflows/snake.yml` in your profile repo with the code below 👇
+
+<details>
+<summary>📋 Click to copy the Snake GitHub Action</summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
 ## 💼 Career Journey
 
 | 🏢 Company | 💡 Role | 📅 Period |
@@ -112,7 +191,6 @@ const fatema: Developer = {
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
