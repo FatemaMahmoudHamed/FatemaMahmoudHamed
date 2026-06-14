@@ -27,8 +27,6 @@ const fatema: Developer = {
   experience:  "9+ years",
   location:    "Riyadh, Saudi Arabia 🇸🇦",
   currentJob:  "SDAIA",
-  passion:     ["Clean Architecture", "Enterprise Solutions", "Mentoring"],
-  languages:   ["Arabic 🇪🇬 (Native)", "English 🌍 (Excellent)"],
   superpower:  "Turning complex business requirements into elegant, scalable code"
 };
 ```
